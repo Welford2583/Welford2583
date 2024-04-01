@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Welford2583
+- 👋 Hi, I’m Welford Kulisewa 
 - 👀 I’m interested in ...MERN stack
 - 🌱 I’m currently learning ...JavaScript 
 - 💞️ I’m looking to collaborate on ...Web dev
